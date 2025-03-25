@@ -8,3 +8,9 @@
 02 - Data/Prepared Data/.DS_Store
 02 - Data/Prepared Data/coffee_quality_cleaned.pkl
 .DS_Store
+04 - Analysis/Visualisations/choropleth_acidity.html
+04 - Analysis/Visualisations/choropleth_aftertaste.html
+04 - Analysis/Visualisations/choropleth_aroma.html
+04 - Analysis/Visualisations/choropleth_balance.html
+04 - Analysis/Visualisations/choropleth_body.html
+04 - Analysis/Visualisations/choropleth_flavor.html
